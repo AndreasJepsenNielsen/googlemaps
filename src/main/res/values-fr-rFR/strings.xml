@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegisterApp</string>
+    <string name="register">Registre</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="testString">Guide de localisation Android</string>
+    <string name="this_is_my_first_android_localization_project">Ceci est mon premier projet de localisation Android</string>
+    <string name="login">Entrer</string>
+    <string name="Welcome">Bonjour et bienvenue sur le registre app projekt</string>
+    <string-array name="language">
+        <item>Choisissez la langue</item>
+
+        <item>Anglais</item>
+        <item>Danois</item>
+        <item>Suédois</item>
+        <item>Francais</item>
+    </string-array>
+    <string name="map">carte</string>
+    <string name="get_another_string">Obtenir de nouveaux numéros</string>
+</resources>

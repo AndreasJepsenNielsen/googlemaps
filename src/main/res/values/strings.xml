@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RegisterApp</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="testString">Android Localization Guide</string>
+    <string name="this_is_my_first_android_localization_project">This is my first android localization project!</string>
+    <string name="Welcome">Hello and welcome to the register app project!</string>
+    <string name="map">Map</string>
+    <string name="get_another_string">Get new numbers</string>
+    <string-array name="language">
+        <item>Choose Language</item>
+        <item>English</item>
+        <item>Danish</item>
+        <item>Swedish</item>
+        <item>French</item>
+    </string-array>
+</resources>

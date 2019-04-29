@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegisterApp</string>
+    <string name="register">Registrer</string>
+    <string name="username">Brugernavn</string>
+    <string name="password">Kodeord</string>
+    <string name="testString">Android Lokaliserings Guide</string>
+    <string name="this_is_my_first_android_localization_project">Dette er mit første Android Localiserings projekt</string>
+    <string name="login">Log på</string>
+    <string name="Welcome">Hej og velkommen til registrer app projektet!</string>
+    <string-array name="language">
+        <item>Vælg Sprog</item>
+        <item>Engelsk</item>
+        <item>Dansk</item>
+        <item>Svensk</item>
+        <item>Fransk</item>
+    </string-array>
+    <string name="map">Kort</string>
+    <string name="get_another_string">Hent nye numre</string>
+</resources>
